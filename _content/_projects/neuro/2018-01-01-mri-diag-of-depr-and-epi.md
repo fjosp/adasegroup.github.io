@@ -2,7 +2,7 @@
 layout: project_page
 team: neuro
 categories: neuro
-
+front_id: 8
 data: 2018
 
 title: "MRI-based Diagnostics of Depression Concomitant with Epilepsy: in Search of the Potential Biomarkers"

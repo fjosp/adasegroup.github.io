@@ -2,7 +2,7 @@
 layout: project_page
 team: neuro
 categories: neuro
-
+front_id: 0
 data: 2020
 
 title: "Interpretation of 3D CNNs for Brain MRI Data Classification"

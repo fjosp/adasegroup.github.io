@@ -2,7 +2,7 @@
 layout: project_page
 team: neuro
 categories: neuro
-
+front_id: 4
 data: 2020
 
 title: Machine learning models reproducibility and validation for MR images recognition

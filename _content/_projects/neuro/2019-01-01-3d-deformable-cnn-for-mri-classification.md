@@ -2,7 +2,7 @@
 layout: project_page
 team: neuro
 categories: neuro
-
+front_id: 7
 data: 2019
 
 title: 3D Deformable Convolutions for MRI classification

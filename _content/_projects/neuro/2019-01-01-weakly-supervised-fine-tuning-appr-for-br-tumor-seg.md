@@ -2,7 +2,7 @@
 layout: project_page
 team: neuro
 categories: neuro
-
+front_id: 6
 data: 2019
 
 title: Weakly supervised fine tuning approach for brain tumor segmentation problem

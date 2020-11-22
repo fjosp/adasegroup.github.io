@@ -2,7 +2,7 @@
 layout: project_page
 team: neuro
 categories: neuro
-
+front_id: 10
 data: 2018
 
 title: "Commentary: Selective Development of Anticorrelated Networks in the Intrinsic Functional Organization of the Human Brain"

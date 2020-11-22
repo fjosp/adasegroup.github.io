@@ -2,7 +2,7 @@
 layout: project_page
 team: neuro
 categories: neuro
-
+front_id: 5
 data: 2018
 
 title: Basal ganglia lateralization in different types of reward

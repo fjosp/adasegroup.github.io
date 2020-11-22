@@ -2,7 +2,7 @@
 layout: project_page
 team: neuro
 categories: neuro
-
+front_id: 3
 data: 2020
 
 title: "Domain Shift in Computer Vision Models for MRI Data Analysis: An Overview"

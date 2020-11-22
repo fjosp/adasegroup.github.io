@@ -2,7 +2,7 @@
 layout: project_page
 team: neuro
 categories: neuro
-
+front_id: 9
 data: 2018
 
 title: Functional brain areas mapping in patients with glioma based on resting-State fMRI data decomposition
