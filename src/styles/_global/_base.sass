@@ -51,9 +51,9 @@ a
   display: block
   padding-left: $content-padding
   padding-right: $content-padding
-  margin-left: auto
-  margin-right: auto
-  max-width: $content-width
+  margin-left: 5%
+  margin-right: 5%
+  // max-width: $content-width
   +on-landscape-tablet
     max-width: $content-width-on-landscape-tablet
   +on-portrait-tablet
@@ -61,6 +61,12 @@ a
   +on-xl-desktop
     max-width: $content-width-on-xl-desktop
 
+=headers
+  h1
+    padding: 10px
+    text-align: center
+    white-space: pre-wrap
+    background-color: $grey-color-ultralight
 
 #wrapper, #page-header
   margin-top: 0
@@ -70,11 +76,12 @@ a
   +center
   @extend .clearfix
 
-
 #full-body-wrapper
   margin: 0
   padding: 0
   @extend .clearfix
-
-  .centered-section
+  +headers
+  h2,h3,p
     +center
+  // .centered-section
+  //   +center
